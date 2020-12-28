@@ -1,0 +1,13 @@
+Field,Type,Null,Key,Default,Extra
+v_model,varchar(20),YES,,NULL,
+v_number,char(5),YES,,NULL,
+v_type,varchar(20),YES,,NULL,
+v_subtype,varchar(20),YES,,NULL,
+v_colour,varchar(20),YES,,NULL,
+v_image,varchar(500),YES,,NULL,
+v_rent,int,YES,,NULL,
+v_feul_type,varchar(15),YES,,NULL,
+v_Loc_name,varchar(40),YES,,NULL,
+v_Loc_address,varchar(400),YES,,NULL,
+v_Loc_city_name,varchar(20),YES,,NULL,
+v_Loc_pincode,char(6),YES,,NULL,

@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+pickup,datetime,YES,,NULL,
+dropoff,datetime,YES,,NULL,
+booking,datetime,YES,,NULL,
+booking_ammount,int,YES,,NULL,
+booking_location,varchar(500),YES,,NULL,
+booking_vehicle_number,char(5),YES,,NULL,
+booking_customer_email,varchar(50),YES,,NULL,

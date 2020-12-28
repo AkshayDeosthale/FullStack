@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+first_name,varchar(15),YES,,NULL,
+last_name,varchar(15),YES,,NULL,
+password,varchar(15),YES,,NULL,
+email_id,varchar(20),YES,,NULL,
+mobile_number,char(10),YES,,NULL,
+wallet,int,YES,,NULL,
+type_of_account,varchar(8),YES,,NULL,
+user_allowed,int,YES,,NULL,
